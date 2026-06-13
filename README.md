@@ -56,13 +56,23 @@ Real-world usage: Installed in homes and offices to provide internet access.
 Part B: IP Address Classification
 IP Address	Category	Reason
 192.168.1.10	Private	Falls within the private range 192.168.0.0 – 192.168.255.255
+
 10.0.0.5	Private	Falls within the private range 10.0.0.0 – 10.255.255.255
+
 172.16.5.20	Private	Falls within the private range 172.16.0.0 – 172.31.255.255
+
 8.8.8.8	Public	Google's public DNS server
+
 1.1.1.1	Public	Cloudflare's public DNS server
+
 192.168.100.1	Private	Falls within the private range 192.168.0.0 – 192.168.255.255
+
 Part C: Understanding Your Network
+
 Network Information
+
 IPv4 Address: 192.168.248.227
+
 Default Gateway: 192.168.248.186
+
 DNS Server: 192.168.248.186                  
