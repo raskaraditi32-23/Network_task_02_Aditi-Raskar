@@ -1,15 +1,27 @@
-Which IP range does your device belong to?
+1.Which IP range does your device belong to?
 
-My device belongs to the 192.168.248.0/24 network.
+Answer. My device belongs to the 192.168.248.0/24 network.
 
-Is it Public or Private?
+2.Is it Public or Private?
 
-It is a Private IP Address because it falls within the 192.168.x.x private address range.
+Answer. It is a Private IP Address because it falls within the 192.168.x.x private address range.
 
-What role does your router play in your network?
+3.What role does your router play in your network?
 
-The router connects the local network to the internet and directs traffic between devices and external networks.
+Answer. The router connects the local network to the internet and directs traffic between devices and external networks.
 
-What would happen if the DNS server stopped working?
+4. What would happen if the DNS server stopped working?
 
-Without DNS, domain names such as google.com could not be translated into IP addresses. Users would have difficulty accessing websites using their domain names.
+Answer.Without DNS, domain names such as google.com could not be translated into IP addresses. Users would have difficulty accessing websites using their domain names.
+
+Part E: Practical Command Exercise (Windows)
+
+1. What IP address did DNS return for Google?
+Answer: The DNS server returned the IP address 10.64.235.133 for google.com.
+
+2. Was the ping successful?
+Answer: Yes, the ping was successful. All packets were received without loss.
+(If your ping failed, mention the actual result.)
+
+3. Why is DNS important before communication begins?
+Answer: DNS translates domain names such as google.com into IP addresses so that devices can locate and communicate with the correct servers on the internet.
